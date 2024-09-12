@@ -1,6 +1,6 @@
 # nlw-17-trilha-App-Metas
 
-Aprender Node.js foi é muito importante em minha jornada como Desenvolvedor/programador, especialmente porque foi a primeira vez que utilizei no front-end. 
+Aprender Node.js é muito importante em minha jornada como Desenvolvedor/programador, especialmente porque foi a primeira vez que utilizei no front-end. 
 
 Apliquei esse conhecimento criando um app de gerenciamento de metas com funcionalidades essenciais:
 
